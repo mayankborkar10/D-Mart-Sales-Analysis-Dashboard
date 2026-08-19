@@ -56,8 +56,9 @@ The project was completed through the following steps:
 
 8. **Final Dashboard** – Combined all visualizations and KPIs into a single interactive dashboard for easy monitoring and business decision-making.
 
-# Dashboard
+## Dashboard
 <img width="1230" height="601" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/2775dc74-352b-4a34-9eca-45179c5aaafd" />
+
 ## Project Insights
 
 - **Electronics** is the highest-performing product category in terms of sales and profit.
