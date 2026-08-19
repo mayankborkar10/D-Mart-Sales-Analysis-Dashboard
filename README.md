@@ -35,3 +35,23 @@ The objective of this project is to analyze D-Mart sales and profitability data 
 - **Highest Sales Category:** Electronics
 - **Highest Profit Category:** Electronics
 - **Highest Regional Share:** North
+  
+## Process
+
+The project was completed through the following steps:
+
+1. **Data Collection** – Collected the D-Mart sales dataset containing information about sales, profit, categories, regions, cities, and monthly performance.
+
+2. **Data Cleaning** – Checked the dataset for missing values, duplicate records, incorrect data types, and inconsistencies to ensure the data was ready for analysis.
+
+3. **Data Preparation** – Organized and structured the data in Microsoft Excel and created the required fields for analysis.
+
+4. **Data Analysis** – Used Excel formulas, PivotTables, and calculations to analyze sales, profit, categories, regions, cities, and monthly trends.
+
+5. **KPI Creation** – Created key performance indicators such as Total Sales, Total Profit, Category-wise Sales, Category-wise Profit, and Regional Profit Margin.
+
+6. **Dashboard Creation** – Developed an interactive dashboard using charts, KPI cards, and slicers to present the analysis in a clear and visually appealing format.
+
+7. **Insights & Interpretation** – Analyzed the dashboard to identify sales trends, top-performing categories, regional performance, and city-wise sales contribution.
+
+8. **Final Dashboard** – Combined all visualizations and KPIs into a single interactive dashboard for easy monitoring and business decision-making.
