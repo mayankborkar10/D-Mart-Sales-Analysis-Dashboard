@@ -55,3 +55,6 @@ The project was completed through the following steps:
 7. **Insights & Interpretation** – Analyzed the dashboard to identify sales trends, top-performing categories, regional performance, and city-wise sales contribution.
 
 8. **Final Dashboard** – Combined all visualizations and KPIs into a single interactive dashboard for easy monitoring and business decision-making.
+
+# Dashboard
+<img width="1230" height="601" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/2775dc74-352b-4a34-9eca-45179c5aaafd" />
